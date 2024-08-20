@@ -1,0 +1,15 @@
+AnneFrank 20 pages uniquery:
+{'context_precision': 0.7278, 'faithfulness': 0.7917, 'answer_relevancy': 0.5458, 'context_recall': 0.7857,
+'answer_correctness': 0.4731, 'answer_similarity': 0.8991}
+
+Gulliver's travels uniquery:
+{'context_precision': 0.8711, 'faithfulness': 0.7013, 'answer_relevancy': 0.4356, 'context_recall': 0.7101, 
+'answer_correctness': 0.4374, 'answer_similarity': 0.8991}
+
+AnneFrank complete book uniquery:
+{'context_precision': 0.4541, 'faithfulness': 0.6212, 'answer_relevancy': 0.5182, 'context_recall': 0.3547,
+'answer_correctness': 0.4613, 'answer_similarity': 0.8750}
+
+Gulliver's travels multiquery:
+{'context_precision': 0.3608, 'faithfulness': 0.7270, 'answer_relevancy': 0.1979, 'context_recall': 0.6574,
+'answer_correctness': 0.4567, 'answer_similarity': 0.8860}
